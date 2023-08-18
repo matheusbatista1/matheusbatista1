@@ -1,4 +1,6 @@
 ## <h1>Olá! Eu sou o Matheus Batista 😁</h1>
+-------------------------------------------------------
+<p>Javascript | HTML5 | CSS3 | Node.js | MySQL | SQL | C# | Java</p>
 <div>
   <a href="https://github.com/matheusbatista1">
   <img height="140em" src="https://github-readme-stats.vercel.app/api?username=matheusbatista1&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
