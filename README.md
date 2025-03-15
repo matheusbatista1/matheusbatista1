@@ -25,16 +25,6 @@
         <li><span style="color:#6A0DAD">Connecting Front-End</span> and Back-End with precision</li>
       </ul>
     </td>
-    <td width="50%" valign="top" style="padding: 15px;">
-      <h2><span style="color:#6A0DAD">About Me</span></h2>
-      <ul style="list-style-type: square; color: #6A0DAD;">
-        <li><span style="color:#00CED1">Problem-solver</span> with an analytical mindset</li>
-        <li><span style="color:#FF69B4">Team player</span> with clear communication</li>
-        <li><span style="color:#FFD700">Resilient</span> and adaptable under pressure</li>
-        <li><span style="color:#32CD32">Continuous learner</span> improving daily</li>
-        <li><strong><span style="color:#007ACC">Languages:</span></strong> <span style="color:#FFA500">English</span> (A2, improving), <span style="color:#FFA500">Portuguese</span> (Native)</li>
-      </ul>
-    </td>
   </tr>
 </table>
 <hr>
