@@ -54,7 +54,12 @@
   <a href="https://www.postman.com/"><img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" alt="Postman"></a>
   <a href="https://jwt.io/"><img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=json-web-tokens&logoColor=white" alt="JWT"></a>
   <a href="https://www.figma.com/"><img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" alt="Figma"></a>
+  <a href="https://learn.microsoft.com/en-us/dotnet/core/testing/unit-testing-with-dotnet-test"><img src="https://img.shields.io/badge/xUnit-007ACC?style=flat-square&logo=.net&logoColor=white" alt="xUnit"></a>
+  <a href="https://azure.microsoft.com/"><img src="https://img.shields.io/badge/Azure-0089D6?style=flat-square&logo=microsoft-azure&logoColor=white" alt="Azure"></a>
+  <a href="https://azure.microsoft.com/en-us/services/devops/"><img src="https://img.shields.io/badge/Azure%20DevOps-007ACC?style=flat-square&logo=azuredevops&logoColor=white" alt="Azure DevOps"></a>
+  <a href="https://www.docker.com/"><img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker"></a>
 </p>
+
 
 <p align="center">
   <strong><span style="color:#007ACC">Design Principles:</span></strong> SOLID, OOP, DDD  
