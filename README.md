@@ -4,7 +4,7 @@ Backend-first software engineer. I build resilient APIs and complex integrations
 
 The systems that keep orders, money and data flowing at venues and live events — when the venue is at capacity, not in a demo.
 
-São Paulo, Brazil · PT / EN / ES
+São Paulo, Brazil
 
 ---
 
