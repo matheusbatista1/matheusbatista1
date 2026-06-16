@@ -41,8 +41,8 @@ São Paulo, Brazil
 
 - **[matheusbatista-tech](https://github.com/matheusbatista1/matheusbatista-tech)** — this portfolio. Next.js 15, Clean Architecture, Prisma, Vercel AI SDK (Gemini). `TypeScript`
 - **[fincore-web](https://github.com/matheusbatista1/fincore-web)** — FinCore, a personal-finance app on Next.js 16, Supabase and Drizzle. `TypeScript`
-- **[FinancialApi](https://github.com/matheusbatista1/FinancialApi)** — financial API in .NET 8 with JWT auth and Docker. `C#`
-- **[JobProcessor](https://github.com/matheusbatista1/JobProcessor)** — background task-processing service with RabbitMQ, MongoDB and Docker. `C#`
+- **[dotnet-financial-api](https://github.com/matheusbatista1/dotnet-financial-api)** — financial API in .NET 8 with JWT auth and Docker. `C#`
+- **[dotnet-job-processor](https://github.com/matheusbatista1/dotnet-job-processor)** — background task-processing service with RabbitMQ, MongoDB and Docker. `C#`
 
 ---
 
