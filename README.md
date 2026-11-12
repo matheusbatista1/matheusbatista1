@@ -13,7 +13,7 @@ São Paulo, Brazil
 | **Currently** | Software Engineer at **Cubos Tecnologia**, contracted into client products: payments, orders and integrations. |
 | **Recently** | Shipped the 99food delivery-channel integration inside **Zig**'s order manager, the funtech behind cashless payments at the F1 Brazilian GP, Rock in Rio and Tomorrowland. The full order lifecycle runs inside Zig with no friction for the venue operator. |
 | **Focus** | Complex integration design (marketplaces, payment acquirers, delivery channels) · legacy .NET modernization (migrations to .NET 8) · offline-first sync · production resilience · LLM features shipped into production (Gemini ingestion pipelines), not demos |
-| **Portfolio** | **[matheusbatistadev.com](https://matheusbatistadev.com)** — case studies and the full track record |
+| **Portfolio** | **[matheusbatistadev.com](https://matheusbatista.dev)** — case studies and the full track record |
 
 ---
 
